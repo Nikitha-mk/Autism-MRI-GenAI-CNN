@@ -1,0 +1,6 @@
+torch
+torchvision
+nibabel
+gradio
+pytorch-grad-cam
+matplotlib
